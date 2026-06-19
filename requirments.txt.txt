@@ -1,7 +1,0 @@
-pandas 
-numpy 
-scikit-learn
-sklearn.ensemble - random_forest
-matplotlib
-seaboorn
-joblib
