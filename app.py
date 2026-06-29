@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import joblib
 
-model = joblib.load("model_new.pkl")
+model = joblib.load("model_1.pkl")
 
 st.title("🌌 Stellar Object Classification")
 
